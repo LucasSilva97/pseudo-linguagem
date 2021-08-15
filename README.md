@@ -2,7 +2,11 @@
 
 ### Códigos de Programação iniciais em Portugol Studio###
 
-- Cálculo da Àrea do círculo
+- _ESTRUTURA SEQUENCIAL_
+
+1 - Cálculo da Àrea do círculo
+
+
 
 
 

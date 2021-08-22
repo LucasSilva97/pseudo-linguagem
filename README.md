@@ -4,7 +4,9 @@
 
 - _ESTRUTURA SEQUENCIAL_
 
-1 - Cálculo da Àrea do círculo
+1 - Cálculo da Área de um círculo
+
+2- Cálculo da Área de um retângulo
 
 
 
